@@ -71,7 +71,8 @@ This project analyzes **Customer Shopping Behavior** to uncover insights that he
 ## 🖼 Screenshots
 | Dashboard Preview |
 |-------------------|
-| *(Attach Power BI screenshot here)* |
+| ![Uploading Screenshot 2025-10-25 224700.png…]()
+ |
 
 ---
 
