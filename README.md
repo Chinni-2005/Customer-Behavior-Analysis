@@ -71,7 +71,8 @@ This project analyzes **Customer Shopping Behavior** to uncover insights that he
 ## 🖼 Screenshots
 | Dashboard Preview |
 |-------------------|
-| ![Uploading Screenshot 2025-10-25 224700.png…]()
+| <img width="1123" height="615" alt="image" src="https://github.com/user-attachments/assets/4a906589-557b-442b-9c43-904d7d418ac6" />
+
  |
 
 ---
